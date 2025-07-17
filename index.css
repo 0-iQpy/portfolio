@@ -28,6 +28,9 @@ footer {
 	align-items: center;
 	padding: 10px;
 }
+.no-right-click {
+	pointer-events: none;
+}
 /*Class selector*/
 .fa-globe, .fa-facebook,  .fa-x-twitter, .fa-instagram, .fa-tiktok, .fa-youtube {
 	font-size: 25px;
